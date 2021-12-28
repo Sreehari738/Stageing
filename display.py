@@ -54,7 +54,9 @@ if __name__=='__main__':
 	s1.findstudenttotalmarks()
 	s2.findstudenttotalmarks()
 	s1.displaystudent()
-	s2.displaystudent()
+
+
+	#s3.displaystudent()
 	
 	
 	
